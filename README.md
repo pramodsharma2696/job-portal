@@ -2,9 +2,7 @@
 
 **Objective:**
 
-We are developing a Job Portal web application where administrators can create job postings, and users can view these postings from their dashboards. The app uses a Role and Permissions system to manage user and admin functionality. Authentication is already implemented and functional.
-
-Kindly clone this repository, complete the assigned task, and upload the code to a **new public repository** under your GitHub profile. Once done, please share the link to this new repository as a reply to the assessment-related email you received from our HR team.
+We are developing a Job Portal web application where administrators can create job postings, and users can view these postings from their dashboards. The app uses a Role and Permissions system to manage user and admin functionality.
 
 **Technologies Used:**
 
