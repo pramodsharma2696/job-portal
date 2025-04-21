@@ -1,4 +1,4 @@
-# Sr. Full Stack Developer Assessment For DWebPixel
+
 
 **Objective:**
 
